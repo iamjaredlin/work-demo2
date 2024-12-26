@@ -1,0 +1,10 @@
+.myboxdiv{
+	position:absolute;
+	z-index:9999;
+}
+.myboxOverlay{position:absolute;
+			 left:0px;top:0px;
+			 z-index:9998;
+			 visibility: visible;
+			 background:black;
+			 display:none;}
